@@ -2,8 +2,9 @@
     <string name="app_name">MyFirebaseApplication</string>
     <string name="notification_title">Egg Timer</string>
     <string name="snooze">Snooze</string>
+  <string name="default_web_client_id1" translatable="false">573465303242-28ov795tsqscfiv5nhdh5p3o91ti557q.apps.googleusercontent.com</string>
     <string name="eggs_ready">It is time! Bon appetit!</string>
-    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
-    <string name="egg_notification_channel_id" translatable="false">egg_channel</string>
-    <string name="breakfast_notification_channel_id" translatable="false">fcm_default_channel</string>
+   // <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+    //<string name="egg_notification_channel_id" translatable="false">egg_channel</string>
+   // <string name="breakfast_notification_channel_id" translatable="false">fcm_default_channel</string>
 </resources>
